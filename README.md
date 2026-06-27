@@ -36,13 +36,13 @@ A simple React application that allows users to search for airline information u
 Clone the repository
 
 ```bash
-git clone https://github.com/setareh-kazemi10/airline-search-app.git
+git clone https://github.com/setareh-kazemi10/react-api-airline
 ```
 
 Go to the project directory
 
 ```bash
-cd airline-search-app
+cd react-api-airline
 ```
 
 Install dependencies

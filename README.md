@@ -36,7 +36,7 @@ A simple React application that allows users to search for airline information u
 Clone the repository
 
 ```bash
-git clone https://github.com/setareh-kazemi10/react-api-airline
+git clone https://github.com/setareh-kazemi10/react-api-airline.git
 ```
 
 Go to the project directory
